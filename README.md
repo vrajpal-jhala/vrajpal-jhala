@@ -1,16 +1,25 @@
-## Hi there 👋
+# Vrajpal Jhala
 
-<!--
-**vrajpal-jhala/vrajpal-jhala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Senior Frontend Engineer<br />
+> Frontend Architecture · Design Systems · AI
 
-Here are some ideas to get you started:
+I build internal platforms, scalable frontend ecosystems, and AI-driven automation systems that increase engineering velocity across teams.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Design systems · UI Primitives · Microservice integration · Agile workflow's automation · SSG email pipeline
+
+At [ZURU Tech](https://github.com/zurutech) - frontend infrastructure, developer tooling, AI enablement.
+
+## Hobby Projects
+
+Documentation Framework (SSG · Vite)<br />
+[mdox](https://github.com/vrajpal-jhala/mdox)
+
+Codebase RAG (LangChain · LangGraph)<br />
+[codebase-rag](https://github.com/vrajpal-jhala/codebase-rag)
+
+Dependabot with AI (Dependabot · AI)<br />
+[dependabot-ai](https://github.com/vrajpal-jhala/dependabot-ai)
+
+## Contact
+
+[LinkedIn](https://linkedin.com/in/vrajpal-jhala)
