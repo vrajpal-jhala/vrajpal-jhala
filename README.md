@@ -5,7 +5,7 @@
 
 I build internal platforms, scalable frontend ecosystems, and AI-driven automation systems that increase engineering velocity across teams.
 
-> Design systems · UI Primitives · Microservice integration · Agile workflow's automation · SSG email pipeline
+> Design systems · UI Primitives · Microservice integration · Agile workflow's automation · SSG documentation framework · SSG email pipeline
 
 At [ZURU Tech](https://github.com/zurutech) - frontend infrastructure, developer tooling, AI enablement.
 
