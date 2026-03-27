@@ -11,11 +11,8 @@ At [ZURU Tech](https://github.com/zurutech) - frontend infrastructure, developer
 
 ## Hobby Projects
 
-Documentation Framework (SSG · Vite)<br />
-[mdox](https://github.com/vrajpal-jhala/mdox)
-
-Codebase RAG (LangChain · LangGraph)<br />
-[codebase-rag](https://github.com/vrajpal-jhala/codebase-rag)
+RAG Search (BM25 Search · Semantic Search · Hybrid Search with RRF)<br />
+[rag-search-engine](https://github.com/vrajpal-jhala/rag-search-engine)
 
 Dependabot with AI (Dependabot · AI)<br />
 [dependabot-ai](https://github.com/vrajpal-jhala/dependabot-ai)
