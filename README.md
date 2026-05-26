@@ -14,6 +14,9 @@ At [ZURU Tech](https://github.com/zurutech) - frontend infrastructure, developer
 RAG Search (BM25 Search · Semantic Search · Hybrid Search with RRF)<br />
 [rag-search-engine](https://github.com/vrajpal-jhala/rag-search-engine)
 
+GitLab issues RAG (Hybrid Search · Agentic · Chat)<br />
+[gitlab-issues-rag](https://github.com/vrajpal-jhala/gitlab-issues-rag)
+
 Dependabot with AI (Dependabot · AI)<br />
 [dependabot-ai](https://github.com/vrajpal-jhala/dependabot-ai)
 
