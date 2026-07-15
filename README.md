@@ -20,7 +20,8 @@ At [ZURU Tech](https://github.com/zurutech) - frontend infrastructure, developer
 - Dependabot with AI (Dependabot · AI)<br />
 [dependabot-ai](https://github.com/vrajpal-jhala/dependabot-ai)
 
-[Prompting Patterns for Coding Agents](https://gist.github.com/vrajpal-jhala/50a8c29afa8e886cf73c7ad84441643c) - how I keep AI agents scoped, verified, and on-track across multi-step tasks
+> How I keep AI agents scoped, verified, and on-track across multi-step tasks<br />
+> [Prompting Patterns for Coding Agents](https://gist.github.com/vrajpal-jhala/50a8c29afa8e886cf73c7ad84441643c)
 
 ## Contact
 
