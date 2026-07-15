@@ -11,14 +11,16 @@ At [ZURU Tech](https://github.com/zurutech) - frontend infrastructure, developer
 
 ## Hobby Projects
 
-RAG Search (BM25 Search · Semantic Search · Hybrid Search with RRF)<br />
+- RAG Search (BM25 Search · Semantic Search · Hybrid Search with RRF)<br />
 [rag-search-engine](https://github.com/vrajpal-jhala/rag-search-engine)
 
-GitLab issues RAG (Hybrid · Agentic · Chat · Langchainjs)<br />
+- GitLab issues RAG (Hybrid · Agentic · Chat · Langchainjs)<br />
 [gitlab-issues-rag](https://github.com/vrajpal-jhala/gitlab-issues-rag)
 
-Dependabot with AI (Dependabot · AI)<br />
+- Dependabot with AI (Dependabot · AI)<br />
 [dependabot-ai](https://github.com/vrajpal-jhala/dependabot-ai)
+
+[Prompting Patterns for Coding Agents](https://gist.github.com/vrajpal-jhala/50a8c29afa8e886cf73c7ad84441643c) - how I keep AI agents scoped, verified, and on-track across multi-step tasks
 
 ## Contact
 
