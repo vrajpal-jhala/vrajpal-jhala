@@ -11,7 +11,7 @@ At [ZURU Tech](https://github.com/zurutech) - frontend infrastructure, developer
 
 ## Hobby Projects
 
-- Autonomous GitLab Reviewer (LangGraph · Agentic Code Review · Durable Memory)<br />
+- Engineering Context Platform for GitLab (LangGraph · MR Review · Issue Resolution · Chat)<br />
 [langgraph-harness](https://github.com/vrajpal-jhala/langgraph-harness)
 
 - RAG Search (BM25 Search · Semantic Search · Hybrid Search with RRF)<br />
