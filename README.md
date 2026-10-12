@@ -1,6 +1,6 @@
 # Vrajpal Jhala
 
-> Senior Frontend Engineer<br />
+> Senior Software Engineer<br />
 > Frontend Architecture · Design Systems · AI
 
 I build internal platforms, scalable frontend ecosystems, and AI-driven automation systems that increase engineering velocity across teams.
